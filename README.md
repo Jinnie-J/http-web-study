@@ -8,6 +8,6 @@
 3. [HTTP 기본](03-HTTP기본.md)
 4. [HTTP 메서드](04-HTTP메서드.md)
 5. [HTTP 메서드 활용](05-HTTP메서드활용.md)
-6. HTTP 상태코드
+6. [HTTP 상태코드](06-HTTP상태코드.md)
 7. HTTP 헤더1 - 일반 헤더
 8. HTTP 헤더2 - 캐시와 조건부 요청
